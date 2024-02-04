@@ -5,6 +5,8 @@ Extract the table of content(ToC) from a PDF document into a GitHub-flavored mar
 <https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist>  
 [![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/pdf-toc-to-gfm-tasklist/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/pdf-toc-to-gfm-tasklist/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/pdf-toc-to-gfm-tasklist "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/pdf-toc-to-gfm-tasklist)
 
+![Usage demonstration screenshot](doc-assets/usage-demonstration.png "Usage demonstration")
+
 ## Prerequisites
 
 Before running this software, the following prerequites must be satisfied:

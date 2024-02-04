@@ -6,5 +6,6 @@ Source: https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist
 Files:
  *README.md
  */README.md
+ doc-assets/*
 Copyright: 2024 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 License: CC-BY-SA-4.0+

@@ -5,6 +5,15 @@ Extract the table of content(ToC) from a PDF document into a GitHub-flavored mar
 <https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist>  
 [![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/brlin/pdf-toc-to-gfm-tasklist/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/brlin-tw/pdf-toc-to-gfm-tasklist/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/brlin-tw/pdf-toc-to-gfm-tasklist/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/brlin/pdf-toc-to-gfm-tasklist "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/brlin/pdf-toc-to-gfm-tasklist)
 
+## Prerequisites
+
+Before running this software, the following prerequites must be satisfied:
+
+* [Python](https://python.org)  
+  The runtime environment, currently only tested on 3.11.  The `python3` compatibility executable must be available in your command search PATHs.
+* A recent version of [PyPDF2](https://pypi.org/project/PyPDF2/)  
+  The python library for operating the input PDF file, currently only tested on version 2.12.
+
 ## References
 
 This section documents the third-party resources that this project has referenced:

@@ -1,4 +1,4 @@
-# Extract PDF ToC to GFM task list markup
+# PDF ToC to GFM tasklist
 
 Extract the table of content(ToC) from a PDF document into a GitHub-flavored markdown(GFM) task list markup
 

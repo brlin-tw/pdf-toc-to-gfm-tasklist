@@ -9,7 +9,7 @@ Extract the table of content(ToC) from a PDF document into a GitHub-flavored mar
 
 This section documents the third-party resources that this project has referenced:
 
-* [PDF to GFM Conversion | ChatGPT](https://chat.openai.com/share/f51c809a-c0c5-4eee-babd-5f63ec13195b)
+* [PDF to GFM Conversion | ChatGPT](https://chat.openai.com/share/f51c809a-c0c5-4eee-babd-5f63ec13195b)  
   The discussion thread to render the utility prototype
 
 ## Licensing
